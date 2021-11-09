@@ -38,3 +38,10 @@ should display the Node.js version installed on your system. You can do the same
 2. The first time run `npm install`
 3. `SB_CLIENT_ID=<put_in_your_client_id> npm start`
 
+<h2>validations</h2>
+1.start with "hello"
+2.select proper size
+3.select correcr item name.
+4.select order with drink or not.
+5.click on the link for payment
+
